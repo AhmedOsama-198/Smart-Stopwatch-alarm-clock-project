@@ -1,2 +1,2 @@
 # Smart-Stopwatch-alarm-clock-project
-this repository contain source code for a project of a digital stop watch that has an alarm system feature
+Developed a system that controls the stop-watch time/ alarm system and displays it on 7-segment displays using the ATmega32 microcontroller. Implemented drivers for GPIO, Timer, External Interrupts, and 7-Segment displays.
