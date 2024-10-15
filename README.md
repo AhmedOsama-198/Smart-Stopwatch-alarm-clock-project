@@ -4,7 +4,7 @@
 1. Increment Mode (Default): The stopwatch counts upwards from zero, displaying hours, minutes, and seconds on six seven-segment displays.
 2. Countdown Mode: The stopwatch counts downwards from a user-defined time, functioning as a countdown timer.
 - Features:
-• Reset Function: Resets the time to zero in both modes.
-• Pause Function: Pauses the time counting, allowing the stopwatch to hold its current value.
-• Resume Function: Resumes counting from the paused time.
-• Mode Toggle: Switches between increment and countdown modes.
+1) Reset Function: Resets the time to zero in both modes.
+2) Pause Function: Pauses the time counting, allowing the stopwatch to hold its current value.
+3) Resume Function: Resumes counting from the paused time.
+4) Mode Toggle: Switches between increment and countdown modes.
